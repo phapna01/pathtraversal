@@ -1,5 +1,5 @@
 <?php
 
-$cmd = phpinfo();
-echo $cmd;
+
+echo "DKMM";
 ?>
